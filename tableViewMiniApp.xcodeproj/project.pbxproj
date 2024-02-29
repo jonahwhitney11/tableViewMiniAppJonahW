@@ -16,6 +16,7 @@
 		8F3C2E762B8FB45F00BFD83D /* tableViewMiniAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C2E752B8FB45F00BFD83D /* tableViewMiniAppTests.swift */; };
 		8F3C2E802B8FB46000BFD83D /* tableViewMiniAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C2E7F2B8FB46000BFD83D /* tableViewMiniAppUITests.swift */; };
 		8F3C2E822B8FB46000BFD83D /* tableViewMiniAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C2E812B8FB46000BFD83D /* tableViewMiniAppUITestsLaunchTests.swift */; };
+		8F3C2E8F2B8FB86300BFD83D /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C2E8E2B8FB86300BFD83D /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8F3C2E7B2B8FB46000BFD83D /* tableViewMiniAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tableViewMiniAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F3C2E7F2B8FB46000BFD83D /* tableViewMiniAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableViewMiniAppUITests.swift; sourceTree = "<group>"; };
 		8F3C2E812B8FB46000BFD83D /* tableViewMiniAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableViewMiniAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8F3C2E8E2B8FB86300BFD83D /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				8F3C2E5E2B8FB45C00BFD83D /* AppDelegate.swift */,
 				8F3C2E602B8FB45C00BFD83D /* SceneDelegate.swift */,
 				8F3C2E622B8FB45C00BFD83D /* ViewController.swift */,
+				8F3C2E8E2B8FB86300BFD83D /* TableViewController.swift */,
 				8F3C2E642B8FB45C00BFD83D /* Main.storyboard */,
 				8F3C2E672B8FB45F00BFD83D /* Assets.xcassets */,
 				8F3C2E692B8FB45F00BFD83D /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				8F3C2E632B8FB45C00BFD83D /* ViewController.swift in Sources */,
 				8F3C2E5F2B8FB45C00BFD83D /* AppDelegate.swift in Sources */,
 				8F3C2E612B8FB45C00BFD83D /* SceneDelegate.swift in Sources */,
+				8F3C2E8F2B8FB86300BFD83D /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
